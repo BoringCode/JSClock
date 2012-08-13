@@ -1,0 +1,37 @@
+* { margin: auto; padding: auto; }
+
+body {
+	background-color: #D82828;
+	font-family: 'Helvetica';
+	color: white;
+	text-shadow: 1px 1px 0px black;
+	overflow: hidden;
+}
+
+h2 {
+	margin: auto;
+	margin-top: 25%;
+	font-size: 140px;
+	height: 140px;
+	line-height: 140px;
+	letter-spacing: -1px;
+	width: 600px;
+	text-align: right;
+}
+	.period {
+		font-size: 20px;
+		line-height: 20px;
+		margin-bottom: -15px;
+		display: block;
+		width: 600px;
+	}
+
+time {
+	margin: auto;
+	font-size: 16px;
+	line-height: 16px;
+	height: 16px;
+	display: block;
+	width: 600px;
+	text-align: right;
+}
